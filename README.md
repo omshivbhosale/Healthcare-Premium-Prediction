@@ -6,16 +6,6 @@ A machine learning web application that predicts a person's **annual health insu
 
 ---
 
-## Demo
-
-<!-- TODO: Add a screenshot of the running Streamlit app here, e.g.:
-![App Screenshot](app_screenshot.png)
-Run the app, take a screenshot, save it in the repo, and update this line. -->
-
-*Screenshot coming soon.*
-
----
-
 ## What it does
 
 The user enters details — age, dependants, income, genetic risk, insurance plan, employment, gender, marital status, BMI category, smoking status, region, and medical history. The app then:

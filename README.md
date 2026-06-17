@@ -86,7 +86,3 @@ Healthcare-Premium-Prediction/
 - Engineering a normalized risk score from categorical medical history
 - Keeping preprocessing consistent between training and inference using saved scalers
 - Comparing a linear model against a gradient-boosted model (XGBoost)
-
-## Acknowledgements
-
-Built by following the **codebasics** machine learning course (codebasics.io). The dataset and core project concept are from the course; this repository is my own implementation.
